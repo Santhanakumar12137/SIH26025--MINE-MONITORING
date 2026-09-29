@@ -1,0 +1,6 @@
+{
+  "name": "Underground Mine Subsidence Early Warning System",
+  "description": "Professional vertical flowchart infographic and interactive Wokwi ESP32 simulation for underground mine subsidence early warning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
